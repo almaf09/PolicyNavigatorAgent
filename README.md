@@ -39,8 +39,8 @@
 
 ## Example Input/Ouput
 -"Create a Google Doc that summarizes the key points of the CCPA and give me its url"
-    "The Google Doc titled 'CCPA Summary' has been created successfully. You can access it [here]. The document includes the following key points:
 
+    "The Google Doc titled 'CCPA Summary' has been created successfully. You can access it [here]. The document includes the following key points:
     1. **Right to Know**: Consumers have the right to know what personal information is being collected about them and how it is used and shared.
     2. **Right to Delete**: Consumers can request the deletion of their personal information held by businesses.
     3. **Right to Opt-Out**: Consumers can opt-out of the sale of their personal information to third parties.
@@ -50,21 +50,23 @@
     7. **Global Privacy Control**: Businesses must honor consumer requests made through user-enabled global privacy controls.
     8. **Financial Incentives**: If businesses offer financial incentives for the collection of personal information, they must provide clear disclosures and obtain opt-in consent from consumers."
 
+
 -"How many Executive Orders were signed in 2017"
+
    "There were 60 Executive Orders signed in 2017." 
 
--""Has Section 230 ever been challenged in court? What was the outcome?"
+
+-"Has Section 230 ever been challenged in court? What was the outcome?"
+
     "In recent court cases challenging Section 230, two notable outcomes are as follows:
-
     1. **Gonzalez v. Google LLC**: The U.S. Supreme Court upheld Section 230 protections, ruling that the plaintiffs' claims did not sufficiently state a viable legal claim. The Court emphasized that the allegations did not meet the necessary criteria for liability under the relevant statutes, effectively maintaining the immunity granted to platforms under Section 230.
-
     2. **Anderson v. TikTok**: The Third Circuit Court of Appeals reversed a lower court's dismissal of a lawsuit against TikTok, which had been based on Section 230. The appellate court found that the case had merit and that the lower court's application of Section 230 was not appropriate in this instance, allowing the case to proceed.
-
     These cases illustrate the ongoing legal debates surrounding Section 230 and its implications for online platforms."
 
--"Draft a one-page brief explaining Executive Order 14067."
-    "The document has been created successfully. You can view it [here]. It contains the following sections:
 
+-"Draft a one-page brief explaining Executive Order 14067."
+
+    "The document has been created successfully. You can view it [here]. It contains the following sections:
     - **Introduction**: Overview of Executive Order 14067, its signing date, and purpose.
     - **Key Points**: Highlights including public input, regulatory framework, ban on CBDCs, and revocation.
     - **Conclusion**: Summary of the significance of the order and its revocation."
